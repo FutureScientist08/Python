@@ -1,0 +1,7 @@
+str1 = str(input("Enter a string: "))
+str2 = str(input("Enter another string: "))
+str12 = str1 + str2
+print(str12)
+print(str1[0:3])
+rstr = str1[::-1]
+print(rstr)

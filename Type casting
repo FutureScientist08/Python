@@ -1,0 +1,13 @@
+name = "Python"
+a = 13
+b = 13.98
+d = False
+print("After convertion\n")
+print("Before: ",type(name))
+print("Before: ",type(a))
+print("Before: ",type(b))
+print("Before: ",type(d))
+print("After: ",float(a))
+print("After: ",int(b))
+print("After: ",bool(d))
+print("After: ",str(name))

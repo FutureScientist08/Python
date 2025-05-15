@@ -1,0 +1,13 @@
+print("Calculator")
+t = int(input("Enter how many questions do you have: \n"))
+num1 = int(input("Enter a number: \n "))
+sym = int(input("Enter 1 for addition 2 for subtraction 3 for multiplication and 4 for division: 1\n"))
+num2 = int(input("Enter second number: \n"))
+if sym == 1 :
+    print("The answer is",num1 + num2)
+if sym == 2 :
+    print("The answer is",num1 - num2)
+if sym == 3 :
+    print("The answer is",num1 * num2)    
+if sym == 4 :
+    print("The answer is",num1 / num2)

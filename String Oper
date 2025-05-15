@@ -1,0 +1,3 @@
+t = str(input("Enter some text: "))
+rt = t[::-1]
+print(rt)

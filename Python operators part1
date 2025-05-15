@@ -1,0 +1,9 @@
+a = 123
+b = 134
+c = 15
+d = 37
+e = 9
+sum = a + b + c + d + e
+print(sum)
+average = sum/5
+print(average)
