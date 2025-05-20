@@ -1,0 +1,7 @@
+unum = int(input("Enter a number:  "))
+if unum > 15:
+    print("Greater than 15")
+else:
+    print("Smaller than 15")
+    print("I am in the else block")
+print("I am out of if and else")
