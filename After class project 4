@@ -1,0 +1,10 @@
+import math
+num = int(input("Enter a number:  "))
+num1 = math.sqrt(num)
+print(num1)
+
+
+
+
+
+

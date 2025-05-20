@@ -1,0 +1,7 @@
+m = float(input("Maths: "))
+h = float(input("Hindi: "))
+e = float(input("English: "))
+s = float(input("Science: "))
+p = m + h + e + s
+a = p/400 * 100
+print(a)

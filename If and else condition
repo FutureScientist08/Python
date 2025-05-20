@@ -1,0 +1,8 @@
+num = 154
+if num > 0:
+    print("Positive number")
+num = -1234
+if num > 0:
+    print("Positive number")
+else:
+    print("Negitive number")

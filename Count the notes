@@ -1,0 +1,6 @@
+a = int(input("Enter the amount \n"))
+b = a//100
+c = a % 100
+d = c // 50
+e = (c % 50)// 10
+print("There are",b,"hundred ruppees notes,",d,"fifty ruppee notes and",e,"ten ruppee notes.")

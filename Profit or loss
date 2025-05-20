@@ -1,0 +1,6 @@
+ac = int(input("Enter the amount of the product:  "))
+s = int(input("Enter sales amount:  "))
+if ac < s:
+    print("Profit!")
+else:
+    print("Loss!!")
