@@ -1,0 +1,5 @@
+t = int(input("Enter the tempreture: "))
+if t > 20:
+    print("Wear cool clothes")
+else:
+    print("Wear woollen clothes")
