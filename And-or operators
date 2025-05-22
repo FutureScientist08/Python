@@ -1,0 +1,16 @@
+a = 132
+b = 127
+c = 0
+if a and b and c:
+    print("All the numbers have boolean value as true.")
+else:
+    print("All the numbers have boolean value as false.")
+
+
+d = 13478
+e = 12345678
+f = 987
+if a or b or c > 0:
+    print("The number is grater than zero")
+else:
+    print("It is smaller than 0")
