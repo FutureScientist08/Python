@@ -1,0 +1,6 @@
+i = input("Enter whaterver you desire:  ")
+
+if i.isalpha():
+    print("It is a string")
+else:
+    print("It is not an alphabet")
