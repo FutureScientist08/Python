@@ -1,6 +1,7 @@
 uwi = int(input("Enter your weight:  "))
 uhi = int(input("Enter your height:  "))
 uw = uwi / (uhi/100)**2
+
 if uwi > uw:
     print("You are over weight")
 if uwi < uw:
